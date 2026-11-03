@@ -109,9 +109,9 @@ I believe that understanding how applications can be attacked makes me a better 
 I'm open to backend engineering opportunities, technical collaborations, and cybersecurity-related projects.
 
 - **GitHub:** [Bilaal68](https://github.com/Bilaal68)
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-- **Portfolio:** [Visit my portfolio](YOUR_PORTFOLIO_URL)
-- **Email:** YOUR_PROFESSIONAL_EMAIL
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/bilaal-mohamed-2b116a270/)
+- **Portfolio:** [Visit my portfolio](https://bilalmohamed.vercel.app/)
+- **Email:** bilaalm68@gmail.com
 
 ---
 
