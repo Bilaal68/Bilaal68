@@ -1,118 +1,56 @@
-# 👋 Hi, I'm Bilaal Mohamed
+# Hi, I'm Bilaal Mohamed 👋
 
-### Backend Developer | Penetration Tester
+**Backend & AI Engineer** · Co-founder of VRLX Digital · Addis Ababa, Ethiopia
 
-I'm a Software Engineering  focused on building reliable backend systems, designing scalable applications, and understanding security from both a development and offensive security perspective.
-
-I enjoy turning complex problems into practical software solutions — from backend APIs and database architecture to application deployment and security testing.
-
-My approach to engineering combines **software development, system architecture, and security-minded thinking**.
+Self-taught engineer building production backend systems and LLM-powered applications. I ship real products for real clients, from APIs and databases to deployment and security.
 
 ---
 
-## 🚀 What I Do
+## 🛠️ Tech Stack
 
-- **Backend Engineering:** Designing and developing backend applications, REST APIs, and business logic.
-- **System Architecture:** Building structured, maintainable applications and designing reliable system workflows.
-- **Database Engineering:** Designing database schemas, managing relationships, and optimizing data operations.
-- **Application Security:** Identifying vulnerabilities, performing security assessments, and understanding common attack surfaces.
-- **Deployment & Infrastructure:** Containerizing applications and deploying services in Linux environments.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
----
-
-## 🛠️ Technical Stack
-
-### Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Databases & Data Management
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Cybersecurity
-- Web Application Security
-- Penetration Testing
-- Vulnerability Assessment
-- OWASP Top 10
-- Linux Security
-- Security Testing
+**Backend:** REST APIs · Auth · Database Design · Query Optimization · Deployment on Linux
+**AI:** LLM APIs · RAG · Tool Calling · AI Agents
+**Security:** OWASP Top 10 · Web/API Testing · CTFs
+**Learning:** Go · Redis · System Design · Algorithms
 
 ---
 
-## 💻 Featured Projects
+## 📌 Featured Projects
 
-### Fayda ID Processor
-An automated ID photo processing and print preparation platform.
+### 🛵 [Balera Delivery](link)
+Food and parcel delivery platform for Bale Robe: customer app, rider app, admin dashboard, and backend.
+**Stack:** [your stack] · **Impact:** [e.g. X orders, Y riders, live in Z city]
 
-- AI-powered human segmentation.
-- Image processing and standardization.
-- Telegram bot integration.
-- Backend automation and Docker deployment.
+### 🏫 [School Management System](link)
+Deployed system for a real school covering registration, records, and administration.
+**Stack:** [your stack] · **Impact:** [e.g. replaced paper process, N students]
 
-### AYN Vision
-An AI-powered CCTV intelligence platform focused on intelligent video analysis and surveillance.
+### 🤖 [AI Pentesting Agent](link)
+LLM-driven agent that automates parts of web application security testing.
+**Stack:** Python, LLM APIs · **Highlights:** [architecture, tools it calls, results]
 
-- Computer vision integration.
-- AI-powered video analytics.
-- Backend services and system architecture.
-- Intelligent monitoring workflows.
-
-### Balerra Delivery
-A delivery platform connecting customers, riders, and administrators.
-
-- Order management workflows.
-- Backend application architecture.
-- Customer and rider application integration.
-- Delivery management processes.
+> For each project, give the problem it solves, one hard technical decision you made, and one number (users, speed, scale).
 
 ---
 
-## 🔐 Cybersecurity Interests
+## 💼 Experience
 
-Alongside backend engineering, I actively develop my understanding of offensive security and application security.
-
-My interests include:
-
-- Web application penetration testing.
-- Vulnerability discovery and analysis.
-- API security.
-- Network security.
-- Security research and CTF challenges.
-
-I believe that understanding how applications can be attacked makes me a better engineer when designing and building them.
+- **Co-founder, VRLX Digital**: led development of web and mobile products for clients
+- **Backend Developer (part-time), Seer Software Solution**: [one line on what you built]
 
 ---
 
-## 🎯 Current Focus
+## 📫 Contact
 
-- Building production-ready backend applications.
-- Improving software architecture and database design.
-- Developing secure REST APIs.
-- Strengthening application security and penetration testing skills.
-- Exploring scalable deployment and infrastructure practices.
+[GitHub](https://github.com/Bilaal68) · [LinkedIn](https://www.linkedin.com/in/bilaal-mohamed-2b116a270/) · [Portfolio](https://bilalmohamed.vercel.app/) · bilaalm68@gmail.com
 
----
-
-## 🤝 Let's Connect
-
-I'm open to backend engineering opportunities, technical collaborations, and cybersecurity-related projects.
-
-- **GitHub:** [Bilaal68](https://github.com/Bilaal68)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/bilaal-mohamed-2b116a270/)
-- **Portfolio:** [Visit my portfolio](https://bilalmohamed.vercel.app/)
-- **Email:** bilaalm68@gmail.com
-
----
-
-### "Build systems that work. Design systems that scale. Secure systems that matter."# bilaalm68
+*Open to backend and AI engineering roles.*
